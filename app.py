@@ -1,7 +1,7 @@
 # Sample Python Code: Hello, World! and Simple Addition
 
 # Print a greeting message
-print("Hello, Worl")
+print("Hello, naresh IT")
 
 # Define two numbers
 num1 = 10
